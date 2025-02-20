@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeonho&nbsp;Kang&fontAlign35&fontAlignY=40&color=gradient)
 
-# 💻 My Technology
-[![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue, Figma](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue,figma)](https://skillicons.dev)
+# 💻 My skills
+[![Node.js, JavaScript, HTML, CSS, Android Studio, React](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react)](https://skillicons.dev)
 
 # 🔴 Record
 ![Profile views](https://komarev.com/ghpvc/?username=corydalis10)
