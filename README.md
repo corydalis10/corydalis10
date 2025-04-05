@@ -6,7 +6,7 @@
 # 🔴 Record
 ![Profile views](https://komarev.com/ghpvc/?username=corydalis10)
 
-[![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
+[![wakatime](https://wakatime.com/badge/user/11e37ba2-7f49-4422-9679-fa2a702713cd.svg)](https://wakatime.com/@11e37ba2-7f49-4422-9679-fa2a702713cd)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corydalis10&show_icons=true&theme=transparent)
 
