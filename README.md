@@ -13,6 +13,7 @@
 # 🌐 Social
 - [GitLab (corydalis10)](https://gitlab.com/corydalis10)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
+- [Hashnode (hyeonho64)](https://hyeonho64.hashnode.dev)
 - [Discord (corydalis10)](https://discord.com/users/946935346577424465)
 - [Portfolio](https://corydalis10.pages.dev)
 - [Email](mailto:hyeonhokang10@gmail.com)
