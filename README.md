@@ -11,8 +11,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corydalis10&show_icons=true&theme=transparent)
 
 # 🌐 Social
+## Programming
 - [GitLab (corydalis10)](https://gitlab.com/corydalis10)
 - [Hashnode (hyeonho64)](https://hyeonho64.hashnode.dev)
 - [Discord (corydalis10)](https://discord.com/users/946935346577424465)
 - [Portfolio](https://corydalis10.pages.dev)
 - [Email](mailto:corydalis10@hotmail.com)
+
+## Writing
+- [Tistory](https://corynovel.tistory.com)
+- [NAVER Blog](https://blog.naver.com/corynovel)
