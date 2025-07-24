@@ -19,5 +19,4 @@
 - [Email](mailto:corydalis10@hotmail.com)
 
 ## Writing
-- [Tistory](https://corynovel.tistory.com)
 - [NAVER Blog](https://blog.naver.com/corynovel)
